@@ -25,6 +25,7 @@ coverage
 
 # Bower dependency directory (https://bower.io/)
 bower_components
+.vscode/*
 
 # node-waf configuration
 .lock-wscript
@@ -41,6 +42,7 @@ typings/
 
 # Optional npm cache directory
 .npm
+.env
 
 # Optional eslint cache
 .eslintcache
